@@ -52,7 +52,7 @@ function Page4Result({ selectedSymptom, selectedAge, departments, goHome, onBack
           className="small-btn"
           onClick={() =>
             window.open(
-              "https://sugang.gm.go.kr/ilms/learning/learningList.do?searchCondition=1&searchKeyword=%EA%B1%B4%EA%B0%95&pageIndex=1&a_search_ch=",
+              "c",
               "_blank"
             )
           }
